@@ -1,0 +1,13 @@
+variable vpc_cidr_block {}
+variable SUB1_S1_1a_cidr_block {}
+variable avail_zone_1 {}
+variable avail_zone_2 {}
+variable env_prefix {}
+variable SUB1_S1_1b_cidr_block {}
+variable SUB2_S1_1a_cidr_block {}
+variable SUB2_S1_1b_cidr_block {}
+variable SUB3_S1_1a_cidr_block {}
+variable SUB3_S1_1b_cidr_block {}
+variable SUB4_S1_1a_cidr_block {}
+variable SUB4_S1_1b_cidr_block {}
+variable region {}
